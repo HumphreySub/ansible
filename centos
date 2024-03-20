@@ -91,7 +91,7 @@ ansible_network_os=ios
 
 #ACCESS POINT
 [ap]
-10._.10.3
+10.31.10.3
 
 [ap:vars]
 ansible_user=admin
